@@ -1,0 +1,35 @@
+html,
+body {
+  position: fixed;
+}
+
+#widthChanger {
+  margin-top: 15px;
+  left: 60px;
+  height: 15px;
+  width: 190px;
+}
+
+button {
+  position: relative;
+  left: 10px;
+  bottom: 0;
+  width: 25px;
+  height: 30px;
+  border: none;
+}
+
+span {
+  position: relative;
+  margin-left: 10px;
+  top: -3px;
+}
+
+#repeat {
+  margin-left: 85px;
+  margin-top: 8px;
+  width: 100px;
+  height: 25px;
+  background: black;
+  color: white;
+}
