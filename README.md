@@ -4,12 +4,19 @@
 
 The repeat button is epic
 
-## How it works
+## Where to start
 
 <ul>
     <li>Click to color you want to use and then draw <br/></li>
-    <li>The program remembers the coordinates of the lines that you draw <br/></li>
-    <li>The program remembers the lines width that they have <br/></li>
-    <li>The program remembers the colors you used <br/></li>
+    <li>After drawing click the "Repeat & clear" button to see the program in action <br/></li>
     <li>When the replay is complete, you will be able to clear the canvas <br/></li>
+</ul>
+
+## How the program works
+
+<ul>
+    <li>It remembers the coordinates of the lines that you draw <br/></li>
+    <li>It remembers the lines width that they have <br/></li>
+    <li>It remembers the colors you used <br/></li>
+    <li>It processes all this data and draw what you have done <br /></li>
 </ul>
