@@ -1,8 +1,8 @@
 # Paint
 
-> The repeat button is epic
+> Create drawings and enjoy the main feature of the app
 
-Create drawings and enjoy the main feature of the app
+The repeat button is epic
 
 ### How it works
     ◼️ Click to color you want to use and then draw
